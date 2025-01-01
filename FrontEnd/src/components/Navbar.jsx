@@ -43,6 +43,7 @@ const Navbar = () => {
           src={assets.search_icon}
           alt=""
         />
+
         <div className=" group relative ">
           <img
             className=" w-5 cursor-pointer "
